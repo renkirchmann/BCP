@@ -1,0 +1,19 @@
+:: StoryTitle
+BCP
+
+
+:: StoryData
+{
+  "ifid": "DF5E0CE2-5F2A-4BC5-80B8-661DAD3B2B74",
+  "format": "Harlowe",
+  "format-version": "3.3.7",
+  "start": "Untitled Passage",
+  "zoom": 1
+}
+
+
+:: Untitled Passage {"position":"600,300","size":"100,100"}
+Test
+
+<img src="https://twinery.org/homepage/img/logo.svg" width="256" height="256">
+
